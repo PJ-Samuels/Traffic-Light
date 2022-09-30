@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">C2_P23</string>
+    <string name="button_label">Change</string>
+    <string name="light_label">LIGHT</string>
+</resources>
